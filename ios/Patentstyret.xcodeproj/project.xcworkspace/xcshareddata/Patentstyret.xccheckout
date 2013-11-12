@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1F8F2ECE-B3CD-4508-BB3E-7B174E45FE7D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Patentstyret</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>247BA729-43AF-471B-B4FD-AB9A9076C0FB</key>
+		<string>ssh://bitbucket.org/visma-kindehav/patentstyret</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/Patentstyret.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>247BA729-43AF-471B-B4FD-AB9A9076C0FB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://bitbucket.org/visma-kindehav/patentstyret</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>247BA729-43AF-471B-B4FD-AB9A9076C0FB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>247BA729-43AF-471B-B4FD-AB9A9076C0FB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>patentstyret</string>
+		</dict>
+	</array>
+</dict>
+</plist>
