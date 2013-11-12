@@ -1,0 +1,106 @@
+### Java ###
+*.class
+
+# Package Files #
+*.war
+*.ear
+
+### IntelliJ ###
+*.iml
+*.ipr
+*.iws
+.idea/
+
+### Eclipse ###
+*.pydevproject
+.project
+.metadata
+android/bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+### Objective-C ###
+# Xcode
+.DS_Store
+*/build/*
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+profile
+*.moved-aside
+DerivedData
+.idea/
+*.hmap
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+
+### Visual Studio 2012 ###
+wp8/Bin/*
+wp8/obj/*
+*.csproj.user
+*.suo
+
+
+# OTHERS #
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.orig
+
+android/out/
+android/cordova/
+
+R.java
+
+android/proguard-project.txt
+android/local.properties
+
+
+# Ignore Symlinks
+/android/assets/www
+/ios/www
+
+/android/out
+/wp8/www
